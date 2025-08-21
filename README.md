@@ -23,7 +23,4 @@ I enjoy blending research with engineering to build impactful, real-world applic
 
 ---
 
-### 📊 GitHub Stats:
-![Faizan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedFaizanAli948&show_icons=true&theme=radical)
 
----
